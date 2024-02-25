@@ -256,22 +256,6 @@ footer {
     width: 48%;
 }
 
-/* .about-img img{
-    margin-left: 20%;
-    width: auto;
-    max-height: 500px;
-    border-radius: 50px 0 50px 50px;
-    box-shadow: 0 0 10px 5px var(--activebg);
-}
-
-.about-text{
-    /* margin-top: 2%; 
-    /* width: 55%; 
-    text-transform: initial;
-    font-weight: 400;
-    font-size: 22px;
-} */
-
 .about-img img {
     width: 100%;
     border-radius: 50px 0 50px 50px;
@@ -285,37 +269,16 @@ footer {
     text-transform: initial;
 }
 
-/* .overflow {
-    overflow: auto;
-}
-
-.tabel-noutati {
-    width: 90%;
-    margin: 1% 5% !important;
-}
-
-.tabel-noutati .about-p {
-    text-align: left;
-    text-transform: initial;
-    font-size: 21px;
-    padding-right: 2% !important;
-    padding-left: 5% !important;
-}
-
-.tabel-noutati td {
-    padding: 1%;
-}
-
-.tabel-noutati img {
-    width: 500px;
-    height: auto;
-    border-radius: 50px 0 50px 50px;
-    box-shadow: 0 0 10px 5px var(--activebg);
-}
-
-.img-tabel {
+.video-about {
+    width: 700px;
+    height: 394px;
+    margin-left: auto;
+    margin-right: auto;
     display: block;
-} */
+}
+
+/* services */
+
 
 /* .about-p {
     margin: 0 15%;
@@ -325,13 +288,7 @@ footer {
     text-transform: initial;
 } */
 
-.video-about {
-    width: 700px;
-    height: 394px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
+
 
 
 
@@ -997,7 +954,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px 11px 0px 12px;
-        margin-top: -3.2%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -1098,7 +1055,7 @@ footer {
 
     .header-nav {
         background: var(--activebg);
-        margin-top: -3.6% !important;
+        margin-top: 0% !important;
     }
 
     .hamburger {
@@ -1117,7 +1074,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px 11px 0px 12px;
-        margin-top: -4.3%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -1201,7 +1158,7 @@ footer {
 
     .header-nav {
         background: var(--activebg);
-        margin-top: -4% !important;
+        margin-top: 0% !important;
     }
 
     .hamburger {
@@ -1219,8 +1176,8 @@ footer {
         background: var(--activebg);
         align-items: flex-start !important;
         justify-content: center !important;
-        padding: 0px 11px 0px 12px;
-        margin-top: -4.3%;
+        padding: 0px 12px;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -1228,7 +1185,7 @@ footer {
         float: none;
         display: flex;
         align-items: center !important;
-        margin: 0px 47px;
+        margin: 0px 51px;
         font-size: 21px;
         color: var(--primary);
     }
@@ -1262,6 +1219,14 @@ footer {
         margin-left: -4vh !important;
     }
 
+    .centered {
+        text-align: center;
+        text-transform: uppercase;
+        margin-top: 6%;
+        margin-bottom: 0%;
+        font-size: 4rem;
+    }
+
     /* about us */
 
     .container_about {
@@ -1272,10 +1237,18 @@ footer {
         width: 90%;
         margin: 0 auto;
     }
-    
+
+    .about-img img {
+        width: 100%;
+        margin-top: 2%;
+        border-radius: 50px 0 50px 50px;
+        box-shadow: 0 0 10px 5px var(--activebg);
+    }
+
     .about-text {
         width: 90%;
         margin: 20px auto;
+        font-size: 22px;
     }
 
 }
@@ -1284,7 +1257,7 @@ footer {
 
     .header-nav {
         background: var(--activebg);
-        margin-top: -4.7% !important;
+        margin-top: 0% !important;
     }
 
     .hamburger {
@@ -1303,7 +1276,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px 11px 0px 12px;
-        margin-top: -5.3%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -1386,7 +1359,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px 11px 0px 12px;
-        margin-top: -5.3%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -1475,7 +1448,7 @@ footer {
 
     .header-nav {
         background: var(--activebg);
-        margin-top: -5.5% !important;
+        margin-top: 0% !important;
     }
 
     .hamburger {
@@ -1494,7 +1467,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px 11px 0px 12px;
-        margin-top: -6%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -1535,7 +1508,7 @@ footer {
 
     .header-nav {
         background: var(--activebg);
-        margin-top: -6.2% !important;
+        margin-top: 0% !important;
     }
 
     .hamburger {
@@ -1554,7 +1527,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px 11px 0px 12px;
-        margin-top: -7.3%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -1618,7 +1591,7 @@ footer {
 
     .header-nav {
         background: var(--activebg);
-        margin-top: -6.5% !important;
+        margin-top: 0% !important;
     }
 
     .hamburger {
@@ -1660,7 +1633,7 @@ footer {
 
     .header-nav {
         background: var(--activebg);
-        margin-top: -7.2% !important;
+        margin-top: 0% !important;
     }
 
     .hamburger {
@@ -1679,7 +1652,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px 11px 0px 12px;
-        margin-top: -7.3%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -1757,7 +1730,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px 11px 0px 12px;
-        margin-top: -7.7%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -1821,7 +1794,7 @@ footer {
 
     .header-nav {
         background: var(--activebg);
-        margin-top: -7.5% !important;
+        margin-top: 0% !important;
     }
 
     .hamburger {
@@ -1840,7 +1813,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px 11px 0px 12px;
-        margin-top: -8.3%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -2146,7 +2119,7 @@ footer {
 
     .header-nav {
         background: var(--activebg);
-        margin-top: -10.3% !important;
+        margin-top: 0 !important;
     }
 
     .hamburger {
@@ -2165,7 +2138,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px;
-        margin-top: -11.3%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
@@ -2206,7 +2179,7 @@ footer {
 
     .header-nav {
         background: var(--activebg);
-        margin-top: -12.1% !important;
+        margin-top: 0% !important;
     }
 
     .hamburger {
@@ -2226,7 +2199,7 @@ footer {
         align-items: flex-start !important;
         justify-content: center !important;
         padding: 0px;
-        margin-top: -13.3%;
+        margin-top: 0%;
         margin-bottom: 0;
     }
 
